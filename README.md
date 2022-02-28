@@ -24,3 +24,5 @@
           -> **az group create --location 'mylocation' -- name myRG** >> Cria um novo grupo de recursos, onde **location** -> é a região onde ficam as zonas de disponibilidade do Azure Próximas a você e **myRG** é o nome que você vai dar para seu novo grupo de recursos.
           
 **COMMIT;**
+
+![pngaaa com-4173827](https://user-images.githubusercontent.com/67602627/155923272-f9211fb7-e303-44a1-a067-0186d3e031bf.png)
