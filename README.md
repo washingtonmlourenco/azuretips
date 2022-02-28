@@ -1,4 +1,4 @@
-                                                    ##Dicas Microfoft Azure.
+                                                   ##Dicas Microfoft Azure.
 
 ## Caso tenha mais de uma Subscription no seu Azure, para que não haja confusão na hora de criar um Resource Group, e atrelar novos recursos a esse resource  group.
 ## Podemos setar a nossa subscription como principal, assim sempre que criar um serviço, já ficará setada sua assinatura principal.
